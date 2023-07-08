@@ -41,16 +41,10 @@ To run this system, you will need to have the following installed on your machin
 
 Core Java 
 
-# Installation
-
-1. Clone this repository to your local machine using git clone https://github.com/YashPawtekar/Hospital_mangement
-
-2. Open the project in your preferred IDE (Eclipse, IntelliJ, etc.)
-
 # Usage
 
 Run the app.java file located in the src directory
 
 # Author name
 
-Yash Pawtekar 
+NIKHIL RAJ
